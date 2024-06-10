@@ -37,3 +37,20 @@ The dataset used in this application is sourced from a superstore sales dataset.
 - This application was created by [Shivam Dubey].
 - Dataset source: [Link to the dataset source]
 
+
+#Result 
+
+
+![image](https://github.com/Dubeyrock/Brainwave_Matrix_Intern.---Data-Science-Data-Analytics--/assets/96882359/20329526-d744-41e6-9649-58c905b0381e)
+
+![image](https://github.com/Dubeyrock/Brainwave_Matrix_Intern.---Data-Science-Data-Analytics--/assets/96882359/1cdbafab-7c12-4a36-a486-f1355c791e90)
+
+![image](https://github.com/Dubeyrock/Brainwave_Matrix_Intern.---Data-Science-Data-Analytics--/assets/96882359/628bfb5b-9b68-468d-870f-9949b7ca0fc0)
+
+
+![image](https://github.com/Dubeyrock/Brainwave_Matrix_Intern.---Data-Science-Data-Analytics--/assets/96882359/7adb0e11-1078-444c-b637-8cf100fb720b)
+
+![image](https://github.com/Dubeyrock/Brainwave_Matrix_Intern.---Data-Science-Data-Analytics--/assets/96882359/9ab2164a-6749-48e1-aa92-f8a560b57d05)
+
+
+
