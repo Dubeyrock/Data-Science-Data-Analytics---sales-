@@ -1,4 +1,4 @@
-# Brainwave_Matrix_Intern.-(--Data-Science-Data-Analytics-)
+(--Data-Science-Data-Analytics-)
 Create a sale data analysis of any commercial store.
 
 
